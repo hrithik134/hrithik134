@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **hrithiksrine5297@gmail.com**
 
-- Experiences and other skills [https://drive.google.com/file/d/11286KrYem6YpIUn64f1kfNvben-TpByJ/view?usp=sharing](https://drive.google.com/file/d/11286KrYem6YpIUn64f1kfNvben-TpByJ/view?usp=sharing)
+- Experiences and other skills [https://drive.google.com/file/d/11286KrYem6YpIUn64f1kfNvben-TpByJ/view?usp=sharing](https://drive.google.com/file/d/1rWZ9PS52Gv_ag808UJNpDR8kEjs1bOZB/view?usp=sharing)
 
 - ⚡ Fun fact **I'm a Filmbuff 🎞️ and watch a lot of animes**
 
