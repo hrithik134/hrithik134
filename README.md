@@ -105,9 +105,3 @@
   </a>
 </p>
 
-
-My Contribution Streak
-![GitHub Heatmap](https://github-readme-streak-stats.herokuapp.com/?user=hrithik134&theme=dark&hide_border=true)
-
-Contribution Calendar
-[![Hrithik's GitHub contribution grid](https://github-contribution-grid-snake.dark.horse/github-contribution-grid-snake.svg)](https://github.com/hrithik134)
