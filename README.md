@@ -105,3 +105,17 @@
   </a>
 </p>
 
+<table>
+  <tr>
+    <td align="center">
+      <h3>My Contribution Streak</h3>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=hrithik134&theme=dark&hide_border=true" />
+    </td>
+    <td align="center">
+      <h3>Most Used Languages</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrithik134&layout=compact&theme=dark" />
+    </td>
+  </tr>
+</table>
+
+
