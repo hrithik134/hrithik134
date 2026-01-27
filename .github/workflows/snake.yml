@@ -21,12 +21,14 @@ jobs:
 
       - name: Generate contribution streak
         run: |
-          curl -o assets/streak.svg \
+          curl -H "Authorization: Bearer ${{ secrets.GH_TOKEN }}" \
+          -o assets/streak.svg \
           "https://streak-stats.demolab.com?user=hrithik134&theme=dark&hide_border=true"
-
+      
       - name: Generate top languages
         run: |
-          curl -o assets/top-langs.svg \
+          curl -H "Authorization: Bearer ${{ secrets.GH_TOKEN }}" \
+          -o assets/top-langs.svg \
           "https://github-readme-stats.vercel.app/api/top-langs/?username=hrithik134&layout=compact&theme=dark"
 
       - name: Commit and push changes
